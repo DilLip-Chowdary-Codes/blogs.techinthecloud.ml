@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tech In The Cloud</title>
+    <link>http://blogs.techinthecloud.ml/posts/</link>
+    <description>Recent content in Posts on Tech In The Cloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2022 23:03:23 +0530</lastBuildDate><atom:link href="http://blogs.techinthecloud.ml/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>http://blogs.techinthecloud.ml/posts/home/</link>
+      <pubDate>Tue, 08 Mar 2022 23:03:23 +0530</pubDate>
+      
+      <guid>http://blogs.techinthecloud.ml/posts/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://blogs.techinthecloud.ml/posts/my-first-post/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://blogs.techinthecloud.ml/posts/my-first-post/</guid>
+      <description>Heading Testing Blog.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
